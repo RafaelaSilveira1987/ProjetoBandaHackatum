@@ -1,0 +1,47 @@
+/* margem top de 50px */
+.mt-50{
+  margin-top: 50px;
+}
+.marg{
+  margin-left: 150px;
+  margin-right: 150px;
+}
+/* tamanho icones redes sociais */
+.rdp{
+  font-size: 50px;
+}
+/* Efeito passar o mouse nos menu */
+
+.nav-mouse:hover{
+  background-color: black;
+}
+/* Efeito passar o mouse nos icones de redes sociais */
+.rdp-ico:hover{
+  color: black !important;
+}
+
+/* redefinindo cor do texto no menu */
+
+.nav-link{
+  color:white !important;
+}
+
+/* cor botão enviar */
+.but-color:hover{
+  background-color: #4fce39;
+}
+ /* CSS da Rafaela */
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: 'border-box';
+  overflow-x: 'hidden';
+  font-family: 'Lato', 'sans-serif';
+  background-color: rgb(189, 184, 184);
+}
+
+.sec1 p{
+  flex-direction: column;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
